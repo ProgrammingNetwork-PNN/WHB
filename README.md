@@ -62,4 +62,8 @@
 <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_07.png"> <br> </br>
 
 
+## 2-3. 메인 페이지 메뉴 제작
 
+-마이페이지 디자인
+: 이용자의 프로필 및 주문 내용 주소등 여러가지 정보를 볼 수 있는 페이지
+<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_05.png"> <br> </br>
