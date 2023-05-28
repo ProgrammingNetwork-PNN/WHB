@@ -43,6 +43,6 @@
 - 올해의 트렌드 키워드
 - 이달의 트렌드한 룩 
 - 위와 같은 예시들을 슬라이더 형식으로 제작
-![image](https://github.com/ProgrammingNetwork-PNN/WHB/assets/127470862/cab8372c-3671-4787-a0db-8ccba355c808)
-
 <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_01.png">
+<img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_02.png">
+
