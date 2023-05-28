@@ -54,4 +54,9 @@
 
 
 ## 2-2. 메인 페이지 메뉴 제작
+-룩킹 페이지 디자인
+: 연예인들의 여러가지 룩 사진들을 모아둔 페이지
+: 연예인들이 착용한 옷의 정보(브랜드, 가격)을 알려주는 페이지
+: 각 상품을 클릭 시 구매가능한 사이트로 이동
+<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_07.png"> <br> </br>
 
