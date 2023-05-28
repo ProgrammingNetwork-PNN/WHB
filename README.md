@@ -67,3 +67,8 @@
 -마이페이지 디자인
 : 이용자의 프로필 및 주문 내용 주소등 여러가지 정보를 볼 수 있는 페이지
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_05.png"> <br> </br>
+
+## 2-4. 메인 페이지 메뉴 제작
+-문의 페이지 디자인
+: 이용자가 이용하면서 생긴 문제 및 개선사항 등을 관리자에게 보내는 페이지
+<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_04.png"> <br> </br>
