@@ -37,6 +37,7 @@
 
 # 아이디어 구현
 
+## 1. 사이트의 메인 페이지
 
 
 <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_01.png">
