@@ -61,11 +61,11 @@
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/men_page.png"> <br> </br>
 #### 3. Women 페이지 : 연예인들의 성별(여자)로 구별 한 페이지
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/women_page.png"> <br> </br>
-#### 4. 룩킹 페이지 : 선택한 연예인의 사진과 사진속에 착용한 옷의 브랜드와 가격 정보가 있으며, 정보를 클릭시 구매 사이트로 이동
+#### 4. Looking 페이지 : 선택한 연예인의 사진과 사진속에 착용한 옷의 브랜드와 가격 정보가 있으며, 정보를 클릭시 구매 사이트로 이동
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/Looking_main_page.png"> <br> </br>
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/Looking_page.png"> <br> </br>
 
-### 마이 페이지
+### My 페이지
 #### : 이용자의 프로필 및 주문 내용 주소등 여러가지 정보를 볼 수 있는 페이지
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/my_page.png"> <br> </br>
 
@@ -76,6 +76,9 @@
 ### FAQ 페이지
 #### : 이용자가 이용하면서 생긴 문제 및 개선사항 등을 관리자에게 보내는 페이지
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/community.png"> <br> </br>
+
+### Introdution 페이지
+#### : 사이트의 소개 페이지
 
 # Stylehub 사이트의 차별점
 ### 1) 연예인들이 착용하는 여러가지 옷들을 빠르게 확인이 가능하고, 구매 사이트를 찾는데 시간을 소비할 필요가 없다.
