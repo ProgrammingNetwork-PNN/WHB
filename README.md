@@ -68,5 +68,10 @@
 문의 페이지 : 이용자가 이용하면서 생긴 문제 및 개선사항 등을 관리자에게 보내는 페이지
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_04.png"> <br> </br>
 
+# 사이트 운영 계획
+## 1. Stylehub 사이트의 장점 
+### 1) 연예인들이 착용하는 여러가지 옷들을 빠르게 확인이 가능하고, 구매 사이트를 찾는데 시간을 소비할 필요가 없다.
+### 2) 여러가지 트렌드를 보여주는 메인 페이지와 여러명의 연예인들의 룩을 볼 수 있기에 트렌드에 맞게 옷을 찾아 볼 수 있다.
+<br> </br>
 # 사이트 주소
 ## 사이트 주소 : https://wooju8303.wixsite.com/stylehub
