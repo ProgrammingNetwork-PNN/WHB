@@ -71,11 +71,11 @@
 
 ### Community 페이지
 #### : 이용자들의 페이지를 사용하고 후기나, 여러가지 의견들을 나누는 페에지
-<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/my_page.png"> <br> </br>
+<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/community_page.png"> <br> </br>
 
 ### FAQ 페이지
 #### : 이용자가 이용하면서 생긴 문제 및 개선사항 등을 관리자에게 보내는 페이지
-<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/community.png"> <br> </br>
+<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/FAQ_page.png"> <br> </br>
 
 ### Introdution 페이지
 #### : 사이트의 소개 페이지
