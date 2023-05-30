@@ -47,7 +47,7 @@
 
 
 
-## 2-1. 메인 페이지 메뉴 제작
+## 2. 메인 페이지 메뉴 제작
 ### Looking 페이지
 1. 랭킹 디자인 : 이용자들의 좋아요 데이터 및 뷰 횟수 데이터를 종합해서 구현 
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_06.png"> <br> </br>
@@ -56,12 +56,7 @@
 
 3. 여성 페이지 : 연예인들의 성별(여자)로 구별 한 페이지
 
-
-## 2-2. 메인 페이지 메뉴 제작
--룩킹 페이지 디자인
-: 연예인들의 여러가지 룩 사진들을 모아둔 페이지
-: 연예인들이 착용한 옷의 정보(브랜드, 가격)을 알려주는 페이지
-: 각 상품을 클릭 시 구매가능한 사이트로 이동
+4. 룩킹 페이지 : 선택한 연예인의 사진과 사진속에 착용한 옷의 브랜드와 가격 정보가 있으며, 정보를 클릭시 구매 사이트로 이동
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_08.png">
 <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_07.png"> <br> </br>
 
