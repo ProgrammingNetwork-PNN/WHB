@@ -70,7 +70,7 @@
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/my_page.png"> <br> </br>
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/my_page_2.png"> <br> </br>
 ### Community 페이지
-#### : 이용자들의 페이지를 사용하고 후기나, 여러가지 의견들을 나누는 페에지
+#### : 이용자들의 페이지를 사용하고 후기나, 여러가지 의견들을 나누는 페이지
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/community.png"> <br> </br>
 
 ### FAQ 페이지
