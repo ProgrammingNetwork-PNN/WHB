@@ -83,4 +83,4 @@
 ### 2) 사이트의 배경이 너무 단색이기에 여러가지 컬러로 수정
 ### 3) 검색기능이 없어서 검색을 할 수 있는 검색 기능을 구현
 # 사이트 주소
-## 사이트 주소 : https://wooju8303.wixsite.com/stylehub
+## : https://wooju8303.wixsite.com/stylehub
