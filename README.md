@@ -79,7 +79,7 @@
 
 ### Introdution 페이지
 #### : 사이트의 소개 페이지
-<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/g"> <br> </br>
+<br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/Introduction.png"> <br> </br>
 # Stylehub 사이트의 차별점
 ### 1) 연예인들이 착용하는 여러가지 옷들을 빠르게 확인이 가능하고, 구매 사이트를 찾는데 시간을 소비할 필요가 없다.
 ### 2) 여러가지 트렌드를 보여주는 메인 페이지와 여러명의 연예인들의 룩을 볼 수 있기에 트렌드에 맞게 옷을 찾아 볼 수 있다.
