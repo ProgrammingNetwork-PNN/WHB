@@ -48,7 +48,7 @@
 
 
 ## 2-1. 메인 페이지 메뉴 제작
-
+### Looking 페이지
 -랭킹 디자인 : 이용자들의 좋아요 데이터 및 뷰 횟수 데이터를 종합해서 구현 
 <br> </br> <img src="https://github.com/ProgrammingNetwork-PNN/WHB/blob/main/image_06.png"> <br> </br>
 
